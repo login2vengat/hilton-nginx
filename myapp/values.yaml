@@ -1,0 +1,5 @@
+image:
+  repository: vengatguna/hilton-nginx
+  tag: latest
+  pullPolicy: Always
+
